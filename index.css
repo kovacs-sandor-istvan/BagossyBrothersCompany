@@ -20,9 +20,8 @@ h2 {
     font-style: italic;
 }
 #felhivas {
-    border-left-style: ridge;
-    border-bottom-style: double;
-    border-color:#a5663d;
+    background-color: rgb(165, 102, 61, 0.4);
+    border-left: 4px solid rgb(165, 102, 61);
 }
 
 a {
