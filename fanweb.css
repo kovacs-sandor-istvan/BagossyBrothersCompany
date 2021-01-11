@@ -1,0 +1,45 @@
+body {
+    background-color: whitesmoke;
+    color: #2A3E4D;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12pt;
+    margin: 20px 220px;
+    background: url(Képek/Bagossy_logo.jpg) left repeat-y, url(képek/Bagossy_logo.jpg) right repeat-y;
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    font-style: italic;
+}
+
+#keszito {
+    text-align: right;
+    font-stretch:extra-expanded;
+    letter-spacing: 5px;
+}
+
+.fokep {
+    display: block;
+    margin: auto;
+    max-width: 95%;
+    height: auto;
+}
+
+#olyano {
+    background-color: hsla(30, 59%, 53%, 0.4);
+    height: fit-content;
+    width: fit-content;
+    border-left: 5px solid peru;
+}
+
+.pagelist {
+    list-style-image: url('music-note.png');
+}
