@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color:rgb(156, 113, 4);
+    color:rgb(133, 96, 4);
     text-align: center;
     font-size: 250%;
 }
@@ -16,6 +16,7 @@ h2 {
 }
 
 h2, h3 {
+    color:rgb(133, 96, 4);
     font-style: italic;
 }
 
@@ -67,4 +68,9 @@ h2, h3 {
 
 #fejlec li a:hover {
     background-color: indigo;
+}
+
+#tartalom {
+    margin: 10px 210px;
+    color: #242424;
 }
