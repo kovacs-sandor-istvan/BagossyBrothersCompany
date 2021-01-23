@@ -42,13 +42,11 @@ h2, h3 {
     width: auto;
     margin: -10px 192px;
 }
-
 #fejlec ul {
     background-color: #242424;
     text-align: center;
     list-style-type: none;
     padding: 0;
-    overflow: hidden;
 }
 
 #fejlec li {
@@ -73,4 +71,8 @@ h2, h3 {
 #tartalom {
     margin: 10px 210px;
     color: #242424;
+}
+
+#bemutatokep {
+    float: right;
 }
