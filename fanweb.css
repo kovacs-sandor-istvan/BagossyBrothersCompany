@@ -73,6 +73,17 @@ h2, h3 {
     color: #242424;
 }
 
-#bemutatokep {
+.jobbra {
     float: right;
+}
+
+#cetli {
+    width: 200px;
+    height: auto;
+    margin: 0 170px 0 20px;
+    transform: rotate(7deg);
+    -ms-transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
+    background-color: rgba(255, 215, 0, 0.5);
+    box-shadow: 5px 6px 6px grey;
 }
