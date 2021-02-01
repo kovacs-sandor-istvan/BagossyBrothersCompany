@@ -86,11 +86,19 @@ h2, h3 {
     -webkit-transform: rotate(7deg);
     background-color: rgba(255, 215, 0, 0.5);
     box-shadow: 5px 6px 6px grey; color: darkgrey;
+    color: #242424;
 }
 
-#cetli li {
-    
+#insta li a {
+    background-color: transparent;
 }
+
+#insta li a:hover {
+    color: #242424;
+    font-weight: 650;
+    background-color: transparent;
+}
+
 
 #tartalom a {
     color: #242424;
